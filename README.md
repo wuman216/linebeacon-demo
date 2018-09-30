@@ -10,7 +10,7 @@ Please refer the [using beacon](https://developers.line.me/en/docs/messaging-api
 
 ## Install Dependencies  
 ```
-Bundle install
+bundle install
 ```
 or 
 ```
@@ -19,7 +19,7 @@ gem install 'line-bot-api'
 ```
 
 ## Run
-Enable the LINE Simple Beacon first 
+Clone the [application](https://github.com/line/line-simple-beacon/tree/master/tools/line-simplebeacon-nodejs-sample) and enable the LINE Simple Beacon first 
 ```
 node simplebeacon.js --hwid=YOURHWID
 ```

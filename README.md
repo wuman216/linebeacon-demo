@@ -27,3 +27,8 @@ Start a webserver to process the webhook of LINE Simple Beacon
 ```
 ruby app.rb
 ```
+
+# Reference 
+* [LINE Developers site](https://developers.line.me/en/)
+* [LINE Simple Beacon](https://github.com/line/line-simple-beacon/tree/master/tools/line-simplebeacon-nodejs-sample)
+* [SDK of the LINE Messaging API for Ruby](https://github.com/line/line-bot-sdk-ruby)
